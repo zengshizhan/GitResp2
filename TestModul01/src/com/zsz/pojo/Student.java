@@ -1,0 +1,8 @@
+package com.zsz.pojo;
+
+/**
+ * @author ZSZ
+ * 2023/7/3 20:20
+ */
+public class Student {
+}
